@@ -39,7 +39,7 @@ $SubnetMask  = "24"
 $Gateway     = "192.168.***.***"  
 $DNSServer   = "192.168.***.***"  
 
- Nom du poste
+ Nom du poste  
 $NewName     = "***"
 
 

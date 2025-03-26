@@ -34,10 +34,10 @@ Avant d’exécuter le script, modifiez les valeurs suivantes dans le code sourc
 
 
  Configuration IP
-$IPAddress   = "192.168.***.***"
-$SubnetMask  = "24"
-$Gateway     = "192.168.***.***"
-$DNSServer   = "192.168.***.***"
+$IPAddress   = "192.168.***.***"  
+$SubnetMask  = "24"  
+$Gateway     = "192.168.***.***"  
+$DNSServer   = "192.168.***.***"  
 
  Nom du poste
 $NewName     = "***"

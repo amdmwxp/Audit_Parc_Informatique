@@ -26,7 +26,6 @@ Note: Ouvrir PowerShell en tant qu’administrateur
 
 Avant d’exécuter le script, modifiez les valeurs suivantes dans le code source :
 
-```powershell
 # Configuration IP
 $IPAddress = "192.168.***.***"
 $SubnetMask = "24"

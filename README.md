@@ -4,7 +4,7 @@
 
 Ce script PowerShell permet d’automatiser une série de **tâches essentielles post-installation** sur un système **Windows Server**. Il facilite la mise en route d’un serveur en appliquant rapidement les premières configurations réseau et système, avec une logique simple, adaptable et directe.
 Note: Ouvrir PowerShell en tant qu’administrateur
-Windows Server (testé sur 2019/2022/2025)
+-- Windows Server (testé sur 2019/2022/2025)
 
 ## ✅ Fonctionnalités incluses
 

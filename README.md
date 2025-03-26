@@ -1,4 +1,4 @@
-# 🛠 Script PowerShell - Configuration post-installation Windows Server
+#  Script PowerShell - Configuration post-installation Windows Server
 
 Ce script PowerShell permet d’automatiser une série de **tâches essentielles post-installation** sur un système **Windows Server**.  
 Il facilite la mise en route d’un serveur en appliquant rapidement les premières configurations réseau et système, avec une logique simple, adaptable et directe.
@@ -32,14 +32,14 @@ Il facilite la mise en route d’un serveur en appliquant rapidement les premiè
 
 Avant d’exécuter le script, modifiez les valeurs suivantes dans le code source :
 
-```powershell
-# Configuration IP
+
+ Configuration IP
 $IPAddress   = "192.168.***.***"
 $SubnetMask  = "24"
 $Gateway     = "192.168.***.***"
 $DNSServer   = "192.168.***.***"
 
-# Nom du poste
+ Nom du poste
 $NewName     = "***"
 
 

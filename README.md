@@ -1,4 +1,4 @@
-# 🛠️ Script PowerShell - Configuration post-installation Windows Server
+# 🛠 Script PowerShell - Configuration post-installation Windows Server
 
 Ce script PowerShell permet d’automatiser une série de **tâches essentielles post-installation** sur un système **Windows Server**.  
 Il facilite la mise en route d’un serveur en appliquant rapidement les premières configurations réseau et système, avec une logique simple, adaptable et directe.
